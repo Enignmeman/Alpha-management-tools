@@ -22,11 +22,13 @@ Paint.NET plugins to help manage the transparency of images that are textures du
 However, when someone tries to open these files, they are around 50% transparent.  
 This is because these textures likely use 7bits for the Alpha value of pixels, which means 128 different Alpha values, opposed to 256 (8bits) different values that nearly all modern image editing software uses.
 
+So I made plugins to easily manage and switch the images' transparency from what's dumped or used in textures packs by PCSX2 to what's more commonly used nowadays with most software.
+
 ## Installing
 1. Download the latest `PCSX2AlphaFixer.zip` from the releases page
 2. Unzip it
 3. Run `Install_PSX2AlphaFixer.bat`
-4. Start/restart Paint.NET to use the plugin
+4. Start/restart Paint.NET to use the plugins
 
 ## Usage
 

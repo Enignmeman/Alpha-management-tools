@@ -25,10 +25,12 @@ This is because these textures likely use 7bits for the Alpha value of pixels, w
 So I made plugins to easily manage and switch the images' transparency from what's dumped or used in textures packs by PCSX2 to what's more commonly used nowadays with most software.
 
 ## Installing
+> If you want to update the plugins, follow the same steps
 1. Download the latest `PCSX2AlphaFixer.zip` from the releases page
 2. Unzip it
-3. Run `Install_PSX2AlphaFixer.bat`
-4. Start/restart Paint.NET to use the plugins
+3. Close Paint.NET
+4. Run `Install_PSX2AlphaFixer.bat` (will ask for administrator permission which is required to add plugins to Paint.NET)
+5. Start Paint.NET to use the plugins
 
 ## Usage
 

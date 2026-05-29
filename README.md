@@ -26,7 +26,7 @@ So I made plugins to easily manage and switch the images' transparency from what
 
 ## Installing
 > If you want to update the plugins, follow the same steps
-1. Download the latest `PCSX2AlphaFixer.zip` from the releases page
+1. Download the latest `PCSX2AlphaFixer.zip` from the [releases page](https://github.com/Enignmeman/Alpha-management-tools/releases/latest)
 2. Unzip it
 3. Close Paint.NET
 4. Run `Install_PSX2AlphaFixer.bat` (will ask for administrator permission which is required to add plugins to Paint.NET)
